@@ -26,10 +26,10 @@ public class MédiaAluno {
         System.out.println("Digite a terceira nota de " + nome + ": ");
             nota3 = input.nextDouble();
             
-        //cálculo feito para mostrar a media 
+        //Cálculo feito para mostrar a media 
         media = (nota1 + nota2 +nota3) / 3;
         
-        //mensagem final mostrando o resultado para o usuário
+        //Mensagem final mostrando o resultado para o usuário
         System.out.println("A média de "+ nome+ " é: "+media);
 
     }
