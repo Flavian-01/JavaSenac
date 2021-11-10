@@ -19,8 +19,7 @@ public class BrasileiroOuEstrangeiro {
         
         if  (pais.equals("Brasil") || pais.equals("brasil") )
         {
-            System.out.println(nome+ " Você é brasileiro");
-                       
+            System.out.println(nome+ " Você é brasileiro");               
         }
         else 
         {
