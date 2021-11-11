@@ -26,8 +26,10 @@ public class ExemploSwitch {
                break;
            case 6:
                System.out.println("Sexta-feira");
+               break;
            case 7:
                System.out.println("Sábado");
+               break;
            default:
                System.out.println("Este não  é um dia válido!");
        }
